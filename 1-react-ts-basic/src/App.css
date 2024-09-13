@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+main {
+  background: #0b0f0b;
+  padding: 30px;
+  border-radius: 20px;
+  color: wheat;
+}
+
+input {
+  width: 100%;
+}
