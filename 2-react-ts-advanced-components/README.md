@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+
+# Source: https://github.com/Sizzlesina/Typescript-react-maximilian/tree/main/2-react-ts-basics/src
+# npm create vite@latest 2-react-ts-advanced-components
